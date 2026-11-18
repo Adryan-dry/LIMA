@@ -145,3 +145,10 @@ body {
 .gal-img:hover figcaption {
     transform: translateY(0);
 }
+
+
+/*.video iframe {
+    border: 4px solid #ffffff; /* Espessura, estilo e cor da borda */
+    border-radius: 12px;       /* Arredonda os cantos (opcional) */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Sombra suave (opcional) 
+}*/
